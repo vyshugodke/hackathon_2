@@ -1,0 +1,19 @@
+.container {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.containers {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+img {
+    width: 10%
+}
+
+div {
+    margin: 10px;
+}
